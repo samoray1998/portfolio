@@ -43,7 +43,7 @@ export default function Technical() {
 						/>
 						<BadgesBlock 
 							title="Software I love to work with" 
-							copy="With over 20 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
+							copy="With over 4 years of experience creating mobile apps, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
@@ -79,9 +79,11 @@ const software = [
 	{ key: 'vscode', 		name: 'VSCode', 			type: 'devicon' },
 	{ key: 'mailbox', 		name: 'Postman', 			type: 'fas' },
 	{ key: 'computer-mouse',name: 'Click Up', 			type: 'fas' },
-	{ key: 'list-music',	name: 'Ableton', 			type: 'fas' },
-	{ key: 'aftereffects',	name: 'After Effects', 		type: 'devicon' },
-	{ key: 'premierepro',	name: 'Premiere Pro', 		type: 'devicon' },
+	{ key: 'xcode',	name: 'xCode', 			type: 'devicon' },
+	{ key: 'androidstudio',	name: 'Android Studio', 		type: 'devicon' },
+	{ key: 'intellij',	name: 'intellij', 		type: 'devicon' },
+	{ key: 'slack',	name: 'Slack', 		type: 'devicon' },
+	{ key: 'jira',	name: 'Jira', 		type: 'devicon' },
 ]
 
 const tech	= [
@@ -90,9 +92,9 @@ const tech	= [
 	{ key: 'react', 		name: 'React', 				type: 'devicon' },
 	{ key: 'nextjs', 		name: 'NextJS', 			type: 'devicon' },
 	{ key: 'jquery', 		name: 'jQuery', 			type: 'devicon' },
-	{ key: 'php', 			name: 'PHP', 				type: 'devicon' },
+	{ key: 'typescript', 			name: 'Typescript', 				type: 'devicon' },
 	{ key: 'wordpress', 	name: 'WordPress', 			type: 'devicon' },
-	{ key: 'woocommerce', 	name: 'WooCommerce', 		type: 'devicon' },
+	{ key: 'graphql', 	name: 'Graphql', 		type: 'devicon' },
 	{ key: "google",		name: "GA4/GTM", 			type: "devicon" },
 	{ key: 'html5', 		name: 'HTML5', 				type: 'devicon' },
 	{ key: 'css3', 			name: 'CSS3', 				type: 'devicon' },
@@ -100,4 +102,16 @@ const tech	= [
 	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
 	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
 	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
+	{ key: 'flutter', 		name: 'Flutter', 			type: 'devicon' },
+	{ key: 'docker', 		name: 'Docker', 			type: 'devicon' },
+	{ key: 'kotlin', 		name: 'Kotlin', 			type: 'devicon' },
+	{ key: 'java', 		name: 'Java', 			type: 'devicon' },
+	{ key: 'postgresql', 		name: 'Postgresql', 			type: 'devicon' },
+	{ key: 'go', 		name: 'Go', 			type: 'devicon' },
+	{ key: 'dotnetcore', 		name: '.Net core', 			type: 'devicon' },
+	{ key: 'csharp', 		name: 'C#', 			type: 'devicon' },
+	{ key: 'dart', 		name: 'dart', 			type: 'devicon' },
+	{ key: 'redis', 		name: 'redis', 			type: 'devicon' },
+
 ]
+//csharp

@@ -6,6 +6,7 @@ import Script from 'next/script'
 import css from '../../styles/utils/theme.module.scss'
 
 export default function SetTheme() {
+	
 
 	const router = useRouter()
 
@@ -34,7 +35,7 @@ export default function SetTheme() {
 
 	const defaultTheme = () => {
 		const themeLocalStorage = localStorage.getItem('theme')
-		const themeSystem       = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+		const themeSystem       = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'light' : 'dark'
 
 		return ( themeLocalStorage ?? themeSystem )
 	}

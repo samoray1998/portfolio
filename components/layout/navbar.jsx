@@ -156,7 +156,7 @@ export default function Navbar() {
 						})	
 						}
 						<li>
-							<ThemeMode />
+							<ThemeMode></ThemeMode>
 						</li>
 					</ul>
 				</li>

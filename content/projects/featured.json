@@ -1,37 +1,37 @@
 [
 	{
-		"project": "My Supply Co.",
-		"url": "https://mysupplyco.com",
+		"project": "Mezkala",
+		"url": "https://apps.apple.com/us/app/mezcalmos/id1595882320",
 		"repo": "Private",
-		"descriptionTitle": "D2C & B2B ecommerce site and blog",
-		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"descriptionTitle": "Multi-service Booking App",
+		"description": "Embarking on a sprawling and intricate mobile initiative (accessible on Android and iOS) that empowers users to place orders for taxis, restaurants, laundry, and even yoga classes. This application guarantees continuous real-time tracking of these requests until their fulfillment",
 		"imageOptions": [
 		],
 		"images": [
 			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
-			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
 			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
 		],
 		"stack": [
-			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
-			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "android", "name": "Android", 			"type": "devicon" },
+			{ "key": "apple", 		"name": "IOS", 		"type": "devicon" },
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
 			{ "key": "jquery", 		"name": "jQuery", 		"type": "devicon" },
-			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
-			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
 			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{ "key": "google",		"name": "GA4/GTM/EEC", 	"type": "devicon" }
+			{ "key": "fa-google-play",		"name": "Google play", 	"type": "devicon" },
+			{ "key": "app-store-ios",		"name": "App Store", 	"type": "devicon" }
 		]
 	},
 	{
-		"project": "andrewnelson.net",
-		"url": "https://github.com/atlamors/portfolio",
-		"repo": "Public",
-		"descriptionTitle": "An open source portfolio",
-		"description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+		"project": "Habilios",
+		"url": "https://www.linkedin.com/company/habilios",
+		"repo": "Private",
+		"descriptionTitle": "Habilios mobile app",
+		"description": "The main goal of this app is to streamline the search and reservation process for beauty and styling services, connecting clients with the best-priced and most skilled professionals. Please be aware that the app is currently in the development phase, and we are working collaboratively as a large team on the MVP.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
@@ -39,6 +39,8 @@
 			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
 		],
 		"stack": [
+			{ "key": "android", "name": "Android", 			"type": "devicon" },
+			{ "key": "apple", 		"name": "IOS", 		"type": "devicon" },
 			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
 			{ "key": "react", 		"name": "React", 		"type": "devicon" },
 			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },

@@ -34,16 +34,16 @@ export default function About() {
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="/img/family-photo.jpg" alt="Nelson family photo"/>
+						<img src="/img/family-photo.jpeg" alt="Nelson family photo"/>
 						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="Valuable Soft Skills that Enhance My Abilities"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy="In addition to my proficiency in development and technical skills, I possess strong leadership, time management, and multitasking abilities, which I have refined through my roles as a Co-Founder at Habilios and as a Vice President within an educational organization. Outside of my professional life, I maintain an active lifestyle by participating in sports such as swimming and martial arts. I am confident in my capability to infuse passion and deliver value to every project I undertake."
 						/>
 						<BadgesBlock 
 							title="Reasearch and planning" 

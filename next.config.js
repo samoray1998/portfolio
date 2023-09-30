@@ -3,6 +3,9 @@ module.exports = {
 	env: {
 		dir: '/',
 	},
+	server: {
+		port: 8080, // Change this to the port you want to use
+	},
 	images: {
 		remotePatterns: [
 			{

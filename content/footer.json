@@ -1,50 +1,42 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
-			"note": "Thank you for all the advice and feedback."
+			"person": "Saad AMRANI  - Full-Stack dev",
+			"link": "https://www.linkedin.com/in/0x544d/",
+			"note": "We collaborated at Mezcala and Habilios"
 		},
 		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
-		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
-		},
-		{ 
-			"person": "Vercel - Platform",
-			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
+			"person": "Nathik Azad",
+			"link": "https://www.linkedin.com/in/nathik-azad-3a572950",
+			"note": "CTO of mezecala"
 		}
+		
 	],
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "Find me in Linked in",
+			"link": "https://www.linkedin.com/in/jamal-koukou-b25b5b203/",
+			"note": "See more about my experiences in linkedin"
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
+			"url": "https://twitter.com/KoukouJamal",
+			"icon": "twitter"
 		},
 		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
+			"url": "https://api.whatsapp.com/send?phone=+212650205544",
+			"icon": "whatsapp"
 		},
+		
 		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/jamal-koukou-b25b5b203/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/samoray1998",
 			"icon": "github"
 		}
 	]
