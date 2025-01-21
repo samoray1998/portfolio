@@ -12,8 +12,8 @@ import Layout from '../components/layout/layout'
 import "../node_modules/the-new-css-reset/css/reset.css"
 
 // Fontsource local font import (https://github.com/fontsource/fontsource)
-import "@fontsource/fira-code/400.css"
-import "@fontsource/fira-code/600.css"
+// import "@fontsource/fira-code/400.css"
+// import "@fontsource/fira-code/600.css"
 import "@fontsource/inter/400.css"
 import "@fontsource/inter/700.css"
 import "@fontsource/inter/800.css"
