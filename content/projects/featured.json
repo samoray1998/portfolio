@@ -1,10 +1,38 @@
 [
+
+	{
+		"project": "Shokaze",
+		"url": "https://www.shokaze.com/en",
+		"repo": "Private",
+		"descriptionTitle": "Video-Based Ad Platform",
+		"description": "Introducing an innovative platform that enables users to discover products, services, and more through video ads. With a TikTok-like interface, Shokaze facilitates a seamless browsing experience where users can also post their own video ads to sell products or services. The platform incorporates advanced moderation using AI and human reviewers to ensure a safe and transparent environment.",
+		"imageOptions": [],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/x12.png" }
+		],
+		"stack": [
+			{ "key": "android", "name": "Android", "type": "devicon" },
+			{ "key": "apple", "name": "iOS", "type": "devicon" },
+			{ "key": "dart", "name": "Dart", "type": "devicon" },
+			{ "key": "flutter", "name": "Flutter", "type": "devicon" },
+			{ "key": "firebase", "name": "Firebase", "type": "devicon" },
+			{ "key": "nodejs", "name": "Node.js", "type": "devicon" },
+			{ "key": "google-cloud", "name": "Google Cloud", "type": "devicon" },
+			{ "key": "algolia-original", "name": "Algolia", "type": "devicon" },
+			{ "key": "git", "name": "Git(GitHub)", "type": "devicon" },
+			{"key": "tensorflow", "name": "tensorflow", "type": "devicon"},
+			{"key":"ffmpeg","name": "ffmpeg", "type": "devicon"},
+			{ "key": "google-play", "name": "Google Play", "type": "devicon" },
+			{ "key": "app-store-ios", "name": "App Store", "type": "devicon" }
+		]
+	},
+	
 	{
 		"project": "Mezkala",
 		"url": "https://apps.apple.com/us/app/mezcalmos/id1595882320",
 		"repo": "Private",
 		"descriptionTitle": "Multi-service Booking App",
-		"description": "Embarking on a sprawling and intricate mobile initiative (accessible on Android and iOS) that empowers users to place orders for taxis, restaurants, laundry, and even yoga classes. This application guarantees continuous real-time tracking of these requests until their fulfillment",
+		"description": "Embarking on a sprawling and intricate mobile initiative (accessible on Android and iOS) that empowers users to place orders for taxis, restaurants, laundry, and even yoga classes. This application guarantees continuous real-time tracking of these requests until their fulfillment. However, the client has since removed the app from the stores.",
 		"imageOptions": [
 		],
 		"images": [
@@ -31,7 +59,7 @@
 		"url": "https://www.linkedin.com/company/habilios",
 		"repo": "Private",
 		"descriptionTitle": "Habilios mobile app",
-		"description": "The main goal of this app is to streamline the search and reservation process for beauty and styling services, connecting clients with the best-priced and most skilled professionals. Please be aware that the app is currently in the development phase, and we are working collaboratively as a large team on the MVP.",
+		"description": "The main goal of this app is to streamline the search and reservation process for beauty and styling services, connecting clients with the best-priced and most skilled professionals. Please be aware that the app is currently in the development phase, and we are working collaboratively as a large team on the MVP. However, the project is currently postponed.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],

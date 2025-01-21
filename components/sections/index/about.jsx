@@ -42,7 +42,7 @@ export default function About() {
 							title="Valuable Soft Skills that Enhance My Abilities"
 							containerClass={about.container}
 							iconClass={about.icon}
-							icon={[ 'fat', 'ear-listen' ]}
+							icon='ear-listen'
 							copy="In addition to my proficiency in development and technical skills, I possess strong leadership, time management, and multitasking abilities, which I have refined through my roles as a Co-Founder at Habilios and as a Vice President within an educational organization. Outside of my professional life, I maintain an active lifestyle by participating in sports such as swimming and martial arts. I am confident in my capability to infuse passion and deliver value to every project I undertake."
 						/>
 						<BadgesBlock 
@@ -64,10 +64,10 @@ export default function About() {
 }
 
 const methods 	= [
-	{ key: 'planet-moon', 		name: 'User Research', 		type: 'fad' },
-	{ key: 'qrcode', 			name: 'Digital Strategy', 	type: 'fad' },
-	{ key: 'window', 			name: 'Design Systems', 	type: 'fad' },
-	{ key: 'cubes', 			name: 'Product Strategy', 	type: 'far' },
-	{ key: 'layer-plus', 		name: 'Brand Strategy', 	type: 'fad' },
-	{ key: 'solar-system', 		name: 'Operations', 		type: 'fad' },
+	{ key: 'faSeedling', 		name: 'User Research', 		type: 'fad' },
+	{ key: 'faQrcode', 			name: 'Digital Strategy', 	type: 'fad' },
+	{ key: 'faWindowRestore', 			name: 'Design Systems', 	type: 'fad' },
+	{ key: 'faCube', 			name: 'Product Strategy', 	type: 'far' },
+	{ key: 'faLayerGroup', 		name: 'Brand Strategy', 	type: 'fad' },
+	{ key: 'faSolarPanel', 		name: 'Operations', 		type: 'fad' },
 ]

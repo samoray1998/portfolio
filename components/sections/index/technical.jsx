@@ -36,7 +36,8 @@ export default function Technical() {
 					<div className={about.copy}>
 						<CopyBlock 
 							title="Polymath foundations"
-							icon={[ 'fat', 'chart-network' ]}
+							
+							icon="faDiagramProject"
 							copy="With a strong foundation in both design and development, I bring a unique perspective to every project and am constantly learning and evolving to stay up-to-date with the latest industry trends."
 							iconClass={about.icon}
 							containerClass={about.container}
@@ -47,7 +48,8 @@ export default function Technical() {
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
-							icon="grid-2-plus"
+							
+							icon="faTableCells"
 							containerClass={about.container}
 							headerIcon={about.icon} 
 						/>
@@ -57,7 +59,8 @@ export default function Technical() {
 							list={tech} 
 							block="tech"
 							fullContainer="fullContainer" 
-							icon="laptop-code"
+							//<FontAwesomeIcon icon={faLaptopCode} />
+							icon="faLaptopCode"
 							containerClass={about.container}
 							headerIcon={about.icon} 
 						/>							

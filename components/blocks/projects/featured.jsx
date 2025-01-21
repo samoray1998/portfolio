@@ -54,7 +54,7 @@ export default function FeaturedProject({ content }, index) {
 					</div>
 					<button onClick={()=>handleClick(url)}>
 						<m.div variants={''} className={css.viewProject}>
-							<Icon icon={['fad', 'arrow-right-to-bracket']} />
+							<Icon iconName="fa-arrow-right-from-bracket" />
 						</m.div>
 						</button>
 					{/* <m.div variants={''} className={css.viewProject}>

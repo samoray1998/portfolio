@@ -24,20 +24,20 @@
 	"social": [
 		{
 			"url": "https://twitter.com/KoukouJamal",
-			"icon": "twitter"
+			"icon": "Twitter"
 		},
 		{
 			"url": "https://api.whatsapp.com/send?phone=+212650205544",
-			"icon": "whatsapp"
+			"icon": "Whatsapp"
 		},
 		
 		{
 			"url": "https://www.linkedin.com/in/jamal-koukou-b25b5b203/",
-			"icon": "linkedin"
+			"icon": "Linkedin"
 		},
 		{
 			"url": "https://github.com/samoray1998",
-			"icon": "github"
+			"icon": "Github"
 		}
 	]
 }

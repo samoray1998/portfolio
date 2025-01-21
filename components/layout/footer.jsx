@@ -38,7 +38,7 @@ export default function Footer() {
 						content.acknowledgments.map( ({ person, link, note }, index) => {
 							return (
 								<li key={index}>
-									<a href={link} rel="noreferrer" target="_blank">{person} <Icon icon={[ 'fad', 'arrow-up-right-from-square' ]} /></a>
+									<a href={link} rel="noreferrer" target="_blank">{person} <Icon iconName="faArrowUpRightFromSquare" /></a>
 									<p>{note}</p>
 								</li>
 							)
@@ -51,7 +51,7 @@ export default function Footer() {
 						content.links.map( ({ person, link, note }, index) => {
 							return (
 								<li key={index}>
-									<a href={link} rel="noreferrer" target="_blank">{person} <Icon icon={[ 'fad', 'arrow-up-right-from-square' ]} /></a>
+									<a href={link} rel="noreferrer" target="_blank">{person} <Icon iconName="faArrowUpRightFromSquare" /></a>
 									<p>{note}</p>
 								</li>
 							)
@@ -63,8 +63,11 @@ export default function Footer() {
 						<li className={css.socialList}>
 							{
 							content.social.map( ({ url, icon }, index) => {
+								console.log(`the icon value is =${icon}=`)
 								return (
-									<a  key={index} href={url} rel="noreferrer" target="_blank"><Icon icon={[ 'fab', icon ]} /></a>
+									<a  key={index} href={url} rel="noreferrer" target="_blank">
+										<h6>{icon}</h6>
+										</a>
 								)
 							})
 							}
